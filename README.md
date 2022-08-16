@@ -1,5 +1,7 @@
-<h1 align="left">👋 Hi there! I'm Dhruv Mittal</h1>
-<h3 align="left">I'm a 4th year international student studying Computer Science at the University of Waterloo 🏫 </h3>
+<h1 align="center">👋 Hi there! I'm Dhruv Mittal</h1>
+<h3 align="center">I'm a 4th year international student studying Computer Science at the University of Waterloo 🏫 </h3>
+
+<p/>
 
 - 🔭 I’m currently working on [Focus on Nature](https://github.com/uwblueprint/focus-on-nature)
 
@@ -7,7 +9,7 @@
 
 - 📫 How to reach me **dhruv.mittal@uwaterloo.ca**
 
-- 📄 Know about my experiences [https://github.com/dhmi19/Resume/blob/master/Dhruv%20Mittal%20Resume.pdf](https://github.com/dhmi19/Resume/blob/master/Dhruv%20Mittal%20Resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/dhmi19/Resume/blob/master/Dhruv%20Mittal%20Resume.pdf)
 
 - ⚡ Fun fact **I've lived in 5 countries!**
 
