@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi there! I'm Dhruv Mittal</h1>
-<h3 align="center">I'm a 4th year international student studying Computer Science at the University of Waterloo 🏫 </h3>
+<h3 align="left">I'm a 4th year international student studying Computer Science at the University of Waterloo 🏫 </h3>
 
 - 🔭 I’m currently working on [Focus on Nature](https://github.com/uwblueprint/focus-on-nature)
 
