@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Focus on Nature](https://github.com/uwblueprint/focus-on-nature)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and **Golang**
 
 - 📫 How to reach me **dhruv.mittal@uwaterloo.ca**
 
