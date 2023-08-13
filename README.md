@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"/>
 </div>
 
-<h1 align="center">👋 Hi there, I'm Dhruv Mittal</h1>
+<h1 align="center">👋 Hi there, I'm Dhruv! </h1>
 <h3 align="center">I'm a 4th year international student studying Computer Science at the University of Waterloo 🏫 </h3>
 
 <p/>
