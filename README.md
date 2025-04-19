@@ -3,15 +3,15 @@
 </div>
 
 <h1 align="center">👋 Hi there, I'm Dhruv! </h1>
-<h3 align="center">I'm a 4th year international student studying Computer Science at the University of Waterloo 🏫 </h3>
+<h3 align="center">I'm a Software Engineer @ Wave and a Computer Science graduate from the University of Waterloo 🏫 </h3>
 
 <p/>
 
-- 🔭 I’m currently working at [Extend](https://www.paywithextend.com/)
+- 🔭 I’m currently working at [Wave](https://www.waveapps.com/)
 
 - 🌱 I’m currently reading **Clean Architecture** and **Microservices Patterns**
 
-- 📫 How to reach me **dhruv.mittal@uwaterloo.ca**
+- 📫 How to reach me **d2mittal29@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://github.com/dhmi19/Resume/blob/master/Dhruv%20Mittal%20Resume.pdf)
 
