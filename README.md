@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **d2mittal29@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/dhmi19/Resume/blob/master/Dhruv%20Mittal%20Resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/dhmi19/Resume/blob/4ccd5b29e4f13d40109e0e9f38402de9997839cf/Dhruv%20Mittal%20Resume.pdf)
 
 
 
